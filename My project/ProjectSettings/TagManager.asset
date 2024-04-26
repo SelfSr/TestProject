@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - InventorySlot
+  - Enemy
+  - Damageable
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Enemy
+  - Obstacle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: map
+    uniqueID: 3787947607
+    locked: 0
+  - name: PickUp
+    uniqueID: 2501612589
+    locked: 0
+  - name: Player
+    uniqueID: 3409145599
+    locked: 0
+  - name: Weapon
+    uniqueID: 909307405
+    locked: 0
+  - name: UI
+    uniqueID: 4134476719
+    locked: 0
